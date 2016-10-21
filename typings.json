@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "registry:npm/express#4.14.0+20160925001530",
+    "lodash": "registry:npm/lodash#4.0.0+20161015015725"
+  },
+  "globalDependencies": {
+    "moment": "registry:dt/moment#2.11.1+20161010105546",
+    "node": "registry:dt/node#6.0.0+20161019125345",
+    "request-promise": "registry:dt/request-promise#4.1.0+20161013074249"
+  }
+}
